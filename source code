@@ -1,0 +1,19 @@
+def solver():
+    print('Format: ax +- b = cx +- d')
+    a = int(input('a:'))
+    b = int(input('b:'))
+    c = int(input('c:'))
+    d = int(input('d:'))
+    nums = b - d
+    var = a - c
+    result = 
+
+print('Would you like to solve an equation')
+using = input('')
+while True:
+    if using.lower() == 'yes':
+        solver()
+        break
+        True
+    else:
+        print('ok, bye')
