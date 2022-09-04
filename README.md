@@ -1,2 +1,2 @@
 # Equation
-This is a fun little project I decided to do because I am lazy to solve equations
+This is something I decided to make because I am lazy to solve equations
